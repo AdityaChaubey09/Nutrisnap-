@@ -36,6 +36,7 @@ AI & APIs
 🥦 Nutrition Data API – e.g., Nutritionix for calories & nutrient breakdown
 
 📂 Project Structure
+
 NutriSnap/
 ├── client/        # React frontend
 ├── server/        # Node.js backend
